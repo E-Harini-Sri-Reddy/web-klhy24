@@ -22,6 +22,7 @@ const navLinks = [
   { to: '/', label: 'Home' },
   { to: '/profile', label: 'Profile' },
   { to: '/shortUrl', label: 'Shorten URL' },
+  { to: '/urls-list', label: 'My URLs' },
 ];
 
 export function HeaderMegaMenu() {
